@@ -129,7 +129,7 @@ Some of the solutions for these issues are:
 ##  Report
 
 The detailed VAPT report is included in this repository.
-[Click to view the report](./VAPT_MEtasploitable2-Nessus-Report.pdf)
+[Click to view the report](./VAPT_Metasploitable2-Nessus-Report.pdf)
 
 ---
 

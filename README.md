@@ -64,8 +64,14 @@ First, I identified the IP address of the target machine and checked connectivit
 
 ### 2. Scanning
 Then I ran a Nessus Basic Network Scan on the target IP. The scan took around 14 minutes.
+
 ### Screenshots
 
+### NessusScanning
+![Nessus Dashboard](screenshots/NessusScanning.png)
+
+### Remediation
+![Remediation](screenshots/Remediation.png)
 
 ### 3. Analysis
 After the scan, I analyzed the vulnerabilities based on severity and CVSS score.
@@ -123,6 +129,7 @@ Some of the solutions for these issues are:
 ##  Report
 
 The detailed VAPT report is included in this repository.
+![Click to view the report](VAPT_MEtasploitable2-Nessus-Report.pdf)
 
 ---
 
